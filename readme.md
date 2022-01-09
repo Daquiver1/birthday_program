@@ -8,5 +8,5 @@ If there is none, it sends a message to the user informing the user.
 * A twillo account
 
 ## Images
-[Birthday](images/1.jpg "Birthday")
-[No Birthday](images/2.jpg "No Birthday")
+![No Birthday](images/1.jpg)
+![Birthday](images/2.jpg)
